@@ -1,0 +1,97 @@
+
+.links{
+    margin:1.05rem;
+}
+.links a{
+    text-decoration: none;
+}
+.links a:hover{
+    color:#f1fa8c;
+    font-weight: bold;
+}
+.links span {
+    font-size: 1.5rem;
+}
+/* dracula color scheme */
+
+.drac-bg{
+    background-color:#282a36;
+}
+.drac-fg{
+    color:#f8f8f2;
+}
+
+/* cl-current line */
+.drac-cl{
+    color:#44475a
+}
+.drac-select{
+    color:#44475a;
+}
+.drac-comment{
+    color:#6272a4;
+}
+.drac-bgcomment{
+    background-color:#44475a;
+}
+.drac-cyan{
+    color:#8be9fd;
+}
+.drac-green{
+    color:#50fa7b;
+}
+.drac-orange{
+    color:#ffb86c;
+}
+.drac-pink{
+    color:#ff79c6;
+}
+.drac-purple{
+    color:#bd93f9;
+}
+.drac-red{
+    color:#ff5555;
+}
+.drac-yellow{
+    color:#f1fa8c;
+}
+
+.card-body {
+    background-color: #44475a;
+}
+.card-footer{
+    background-color: #44475a;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color:#bd93f9;
+    font-weight: bolder;
+    position: relative;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active {
+    color: #ff79c6;
+}
+
+.navbar-dark .navbar-toggler {
+    color:rgba(255, 184, 108, 0.6);
+    border-color: rgba(241, 250, 140, 0.3);
+}
+
+.navbar .navbar-nav .nav-link::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: #ff79c6;
+  color: transparent;
+  width: 0%;
+  content: '';
+  height: 3px;
+  transition: all 0.3s;
+}
+.navbar .navbar-nav .nav-link:hover::after {
+  width: 100%;
+}
