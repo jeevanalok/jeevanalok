@@ -18,16 +18,19 @@ const jeevan = {
     askMeAbout: ["web dev", "tech", "anime"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express","Flask"],
         },
         frontEnd: {
             tools: ["React, Tailwind, Bootstrap, Html5, Less, Css"]
+        },
+        mobileAppDevlopment: {
+            tools: ["ReactNative"]
         },
         gameDev: ["Pygame"],
         databases: ["MySql","Mongo"],
         misc: ["Firebase", "Socket.IO","p5.js"]
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications","Cross Platform app development"],
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
