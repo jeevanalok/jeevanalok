@@ -18,7 +18,7 @@ const jeevan = {
     askMeAbout: ["web dev", "tech", "anime"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express","Flask"],
+            tools: ["Nodejs", "Express","Flask","Golang"],
         },
         frontEnd: {
             tools: ["React, Tailwind, Bootstrap, Html5, Less, Css"]
