@@ -5,9 +5,9 @@
 </em></p>
 
 [![Linkedin: Jeevan Alok](https://img.shields.io/badge/-JeevanAlok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeevan-alok-mohanty-b9143a22b/)](https://www.linkedin.com/in/jeevan-alok-mohanty-b9143a22b/)
-<a href="mailto:inventorjeevan@gmail.com">![inventorjeevan@gmail.com](https://img.shields.io/badge/inventorjeevan@gmai.com-D14836?style=flat-square&logo=gmail&logoColor=white)  </a>
+<a href="mailto:inventorjeevan@gmail.com">![inventorjeevan@gmail.com](https://img.shields.io/badge/inventorjeevan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)  </a>
 [![Personal Website](https://img.shields.io/badge/Personal_Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jeevanalok.github.io/portfolio)](https://jeevanalok.github.io/portfolio)
-[![Read my blogs](https://img.shields.io/badge/Read_my_blog-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=violet&link=https://jeevans-storybytes.pages.dev/)](https://jeevans-storybytes.pages.dev/)
+[![Read my blogs](https://img.shields.io/badge/Read_my_blog-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=black&link=https://jeevans-storybytes.pages.dev/)](https://jeevans-storybytes.pages.dev/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
