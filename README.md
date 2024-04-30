@@ -1,7 +1,9 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Jeevan Alok! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="230">
-<p><em>Arranging 1s and 0s in the right order 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> 
+<img align='right' src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="230">
+<p><em>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"/> 
+    Arranging 1s and 0s in the right order 
+
 </em></p>
 
 [![Linkedin: Jeevan Alok](https://img.shields.io/badge/-JeevanAlok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeevan-alok-mohanty-b9143a22b/)](https://www.linkedin.com/in/jeevan-alok-mohanty-b9143a22b/)
